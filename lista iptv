@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/170.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Rede Telecine HBO-Max",Telecine Premium HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/138.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Rede Telecine HBO-Max",Telecine Action HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/141.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Rede Telecine HBO-Max",Telecine Touch HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/137.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Rede Telecine HBO-Max",Telecine Pipoca
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/19.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Rede Telecine HBO-Max",Telecine Fun
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/20.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Rede Telecine HBO-Max",Telecine Cult
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/21.ts
